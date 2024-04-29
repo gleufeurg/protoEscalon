@@ -20,6 +20,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C7414FCC932106EC125EB023C32214D32EB26D12",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid"
+			]
+		},
+		{
 			"ShaderMapHash": "D76802C1D4B7B22752EE4C82439F6D5D80AF4DC5",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
@@ -51,6 +57,24 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2ACCC903A21F404939F681368E78901A91590DEF",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "10DDD402E5FEEFD1C022A04523AABB782C6FABAD",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CA965B34F4694CA2A91C5544D43331E8E6D90B44",
+			"Assets": [
+				"/Game/Items/Rings/Parents/M_Ring"
+			]
+		},
+		{
 			"ShaderMapHash": "3DA22456C0A9B98F3AFC75079626E6F558599F3F",
 			"Assets": [
 				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
@@ -69,13 +93,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3A40243A0DB13753F782B84F4EA528AD76FB8505",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Xray",
-				"/Game/Art/BlockOut/Material__48"
-			]
-		},
-		{
 			"ShaderMapHash": "ABF0AE8B4D6460BF57EE440645BDAB99C3B09229",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Main"
@@ -88,57 +105,85 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2ACCC903A21F404939F681368E78901A91590DEF",
-			"Assets": [
-				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "10DDD402E5FEEFD1C022A04523AABB782C6FABAD",
-			"Assets": [
-				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "A072F575B5101B6594BE5C09E0C9954FA83A779E",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "C7414FCC932106EC125EB023C32214D32EB26D12",
+			"ShaderMapHash": "3A40243A0DB13753F782B84F4EA528AD76FB8505",
 			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_Solid"
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/Art/Materials/Master_materials/MM_teste_red",
+				"/Game/Art/Materials/Master_materials/MM_teste_blue"
 			]
 		},
 		{
-			"ShaderMapHash": "CA965B34F4694CA2A91C5544D43331E8E6D90B44",
+			"ShaderMapHash": "701687606E129320046216CFFC23A5C78AB84AE7",
 			"Assets": [
-				"/Game/Items/Rings/Parents/M_Ring"
+				"/Game/FX/Effects/M_Impact"
 			]
 		},
 		{
-			"ShaderMapHash": "8FB9543E269BC057F244AE872E00D686C3C6828F",
+			"ShaderMapHash": "2FBC633579C88F1CD5EE4DB721E9AB78272AD82C",
 			"Assets": [
-				"/Game/StarterContent/Materials/M_Glass"
+				"/Game/Enemies/Turtle/M_Projectile"
 			]
 		},
 		{
-			"ShaderMapHash": "373A38BB24E826A65AC6523665E0E0FCBA4799C8",
+			"ShaderMapHash": "67987E5F7252515E84E2D1CEAD6EEA4D8A6E003C",
 			"Assets": [
-				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows"
+				"/Game/FX/Effects/Dash/M_Dash"
 			]
 		},
 		{
-			"ShaderMapHash": "43FA93F42A5134BCCFBB96C3ED83B2E153B3D35E",
+			"ShaderMapHash": "16FCE08CDF0ED209DB823619B2C1A08F1CB071B0",
 			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_empty"
+				"/Game/FX/Effects/Slash/M_SwordTrail"
+			]
+		},
+		{
+			"ShaderMapHash": "69F62E18DFFB5529700143159C2F362340D7EBF2",
+			"Assets": [
+				"/Game/FX/Effects/ArrowRain/M_Sparkles"
+			]
+		},
+		{
+			"ShaderMapHash": "5435912F696190DBE28694104B43FBF1832FBFB7",
+			"Assets": [
+				"/Game/Enemies/RingChest/Model/source/HeroChest/Material_2",
+				"/Game/Enemies/RingChest/Model/source/HeroChest/Material_1"
+			]
+		},
+		{
+			"ShaderMapHash": "E521E4C76E9F4853A304A1FFE72BCBF42077D5F3",
+			"Assets": [
+				"/Game/UI/Materials/M_Gauge"
+			]
+		},
+		{
+			"ShaderMapHash": "3D4DAF94387E3FAE7CE66019B0C78BF96A2EA169",
+			"Assets": [
+				"/Game/UI/Materials/M_UI_Weapon",
+				"/Game/UI/Materials/M_UI_Ring"
+			]
+		},
+		{
+			"ShaderMapHash": "0A0F95BA13C073F9BBF906789632B93A7C45FA91",
+			"Assets": [
+				"/Game/Target_System/Materials/M_Outline"
 			]
 		},
 		{
 			"ShaderMapHash": "023AFC096EEC683AFB4F0537AECC3B4D97649605",
 			"Assets": [
 				"/Game/StarterContent/Particles/Materials/m_flare_01"
+			]
+		},
+		{
+			"ShaderMapHash": "8FB9543E269BC057F244AE872E00D686C3C6828F",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Glass"
 			]
 		},
 		{
@@ -160,39 +205,27 @@
 			]
 		},
 		{
-			"ShaderMapHash": "BE3AD792FA970FA9A287FE0A423B3712073423E8",
+			"ShaderMapHash": "373A38BB24E826A65AC6523665E0E0FCBA4799C8",
 			"Assets": [
-				"/Game/FXVarietyPack/EpicContent/Materials/M_DemoWall"
+				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows"
 			]
 		},
 		{
-			"ShaderMapHash": "16FCE08CDF0ED209DB823619B2C1A08F1CB071B0",
+			"ShaderMapHash": "8C4AA4D546DB4E9AC65D8AD61DF6EB7D476D65A4",
 			"Assets": [
-				"/Game/FX/Effects/Slash/M_SwordTrail"
+				"/Game/Art/Materials/VFX/GroundSmash/Material/Master/MM_MeshParticle"
 			]
 		},
 		{
-			"ShaderMapHash": "701687606E129320046216CFFC23A5C78AB84AE7",
+			"ShaderMapHash": "ABFA816F9A67CF18BB47824580FFBB94A522D192",
 			"Assets": [
-				"/Game/FX/Effects/M_Impact"
+				"/Game/Art/Materials/Master_materials/MM_BO_Basic"
 			]
 		},
 		{
-			"ShaderMapHash": "67987E5F7252515E84E2D1CEAD6EEA4D8A6E003C",
+			"ShaderMapHash": "D743FBE58D9F1FBE809C7A6E2C81E2239C75EA7E",
 			"Assets": [
-				"/Game/FX/Effects/Dash/M_Dash"
-			]
-		},
-		{
-			"ShaderMapHash": "655BE9966180ADC5BF9A2BFF45F1A5E06CB2D15A",
-			"Assets": [
-				"/Engine/EngineSky/M_SimpleSkyDome"
-			]
-		},
-		{
-			"ShaderMapHash": "140180DA8817D9266820FB67590FEDE92122791B",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
+				"/Game/Art/Materials/Fade/MM_Fade"
 			]
 		},
 		{
@@ -202,21 +235,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3095451962479BD490FC557C596068F0F08B9559",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultRIbbonMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "655BE9966180ADC5BF9A2BFF45F1A5E06CB2D15A",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
 			"ShaderMapHash": "3441A39AC281C00B1BAD8B85A3724583A5060616",
 			"Assets": [
 				"/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall"
-			]
-		},
-		{
-			"ShaderMapHash": "E7327DBFC398027DAAD38D31BAFFD46059A76713",
-			"Assets": [
-				"/Engine/EngineMaterials/EmissiveMeshMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "DE6E354202800737CD8129D30065844EEFB19E0F",
-			"Assets": [
-				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
 			]
 		},
 		{
@@ -226,15 +259,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "EF157F4AA220EFBC1696F7A05EB9FC5EF26AC1BA",
+			"ShaderMapHash": "140180DA8817D9266820FB67590FEDE92122791B",
 			"Assets": [
-				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoatBlack"
+				"/Engine/BasicShapes/BasicShapeMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "3095451962479BD490FC557C596068F0F08B9559",
+			"ShaderMapHash": "F05FCFBF84E4225886EE9A7804F5F0CB42FF4D93",
 			"Assets": [
-				"/Niagara/DefaultAssets/DefaultRIbbonMaterial"
+				"/Engine/EngineMeshes/BackgroundMaterial"
 			]
 		},
 		{
@@ -247,6 +280,54 @@
 			"ShaderMapHash": "B67E08BEE9FD157559EB4EDA9D7342D440420A5F",
 			"Assets": [
 				"/Engine/EditorMaterials/HelpFlatColour"
+			]
+		},
+		{
+			"ShaderMapHash": "EF157F4AA220EFBC1696F7A05EB9FC5EF26AC1BA",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoatBlack"
+			]
+		},
+		{
+			"ShaderMapHash": "E7327DBFC398027DAAD38D31BAFFD46059A76713",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0EBA8A6C0D8E3E26A4EBB0AA81B97B7038677996",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "95B0B952FAE8EF592C9E5DCE72519100E8DC75CF",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "912737B039761A955163A7379166164F9B218665",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E6AD92431E92E425DEBDC6C351918C071876255B",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "B379CD25DE11053A44C323A5D9D8ABAA396D5E5B",
+			"Assets": [
+				"/Engine/EditorResources/FieldNodes/_Resources/M_FieldVolumePreview"
+			]
+		},
+		{
+			"ShaderMapHash": "827448A2F023A310CD2FC19D4D818DD6C56BC3E5",
+			"Assets": [
+				"/Game/Items/Skills/ArrowRain/Arrow/Arrow1"
 			]
 		},
 		{
@@ -263,76 +344,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "0EBA8A6C0D8E3E26A4EBB0AA81B97B7038677996",
+			"ShaderMapHash": "DE6E354202800737CD8129D30065844EEFB19E0F",
 			"Assets": [
-				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "95B0B952FAE8EF592C9E5DCE72519100E8DC75CF",
-			"Assets": [
-				"/ControlRig/M_Manip"
-			]
-		},
-		{
-			"ShaderMapHash": "E6AD92431E92E425DEBDC6C351918C071876255B",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
-			]
-		},
-		{
-			"ShaderMapHash": "912737B039761A955163A7379166164F9B218665",
-			"Assets": [
-				"/Paper2D/DefaultSpriteMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "BE25E6496A289E7C74B4543C3B0DF63601EC2C1A",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "59E4224C6D50D9B292AD0A1EC1B28504286E2265",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "E7543FE4C0B73622CB14A3695D7965E99F35103F",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
-			]
-		},
-		{
-			"ShaderMapHash": "A3C5F3CB17AE6CF82D61F709860DD9A40BB48D2E",
-			"Assets": [
-				"/Game/Target_System/M_TargetBase"
-			]
-		},
-		{
-			"ShaderMapHash": "99D4A3E1BAEE282087369D7AE2D072929D0F2255",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_Heat_Distortion"
-			]
-		},
-		{
-			"ShaderMapHash": "FDBF89BDA0E8C0FDEED9B476A1B5EC2984628384",
-			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_TableRound"
-			]
-		},
-		{
-			"ShaderMapHash": "5D6A21C5EB9F01F4DBE8D37222056F222AC2A06C",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_Spark"
-			]
-		},
-		{
-			"ShaderMapHash": "CBE0928ADEAFFA8426706E4FCEA5082D3582C772",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/2_Gradients/2_RadialGradient/M_UI_RadialGradient",
-				"/Game/UI/UIMaterialLab/Materials/2_Gradients/2_RadialGradient/MI_UI_RadialGradient_2"
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
 			]
 		},
 		{
@@ -355,6 +369,36 @@
 			]
 		},
 		{
+			"ShaderMapHash": "BE25E6496A289E7C74B4543C3B0DF63601EC2C1A",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "59E4224C6D50D9B292AD0A1EC1B28504286E2265",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6C090B5554B4C60A2F1972FA60710118C9C0C93A",
+			"Assets": [
+				"/Game/FX/Effects/Dash/NS_Dash"
+			]
+		},
+		{
+			"ShaderMapHash": "2A702DA6E8ACBC95687BAF18EE2F7E034840C4EA",
+			"Assets": [
+				"/Game/FX/Effects/M_InjuryFX"
+			]
+		},
+		{
+			"ShaderMapHash": "D0021459D583ACCE2AAB99FFC8AD33968CD76E4C",
+			"Assets": [
+				"/Game/FX/Effects/Regen/M_RegenCast"
+			]
+		},
+		{
 			"ShaderMapHash": "4F16769C5120C494806B96956F03155F2E7F700F",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultMaterial"
@@ -367,53 +411,100 @@
 			]
 		},
 		{
-			"ShaderMapHash": "744952C41805020B9CA15FD411BBB1E0AADF1D11",
+			"ShaderMapHash": "E7543FE4C0B73622CB14A3695D7965E99F35103F",
 			"Assets": [
-				"/Game/FXVarietyPack/EpicContent/Materials/M_LightTube"
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
 			]
 		},
 		{
-			"ShaderMapHash": "CC90F5CCD5E599558562C269ED4DE456E7B03985",
+			"ShaderMapHash": "53B6A4436D80C2E8ABDAF99A9505602D7A1EB516",
 			"Assets": [
-				"/Game/FXVarietyPack/EpicContent/Materials/M_DefaultTextMaterialTranslucentUnlit"
+				"/Engine/EditorResources/FieldNodes/_Resources/DefaultTextMaterialOpaque"
 			]
 		},
 		{
-			"ShaderMapHash": "827448A2F023A310CD2FC19D4D818DD6C56BC3E5",
+			"ShaderMapHash": "83560E37396EFB1167D87912FD98E9E64EDBF331",
 			"Assets": [
-				"/Game/Items/Skills/ArrowRain/Arrow/Arrow1"
+				"/Game/Enemies/ToThrowAway/mutant_M"
 			]
 		},
 		{
-			"ShaderMapHash": "0E692C726A966B37AAE05A96D26CBB73714A63A1",
+			"ShaderMapHash": "0A47E66F7DCF41E9A94CA96E12FDB7BDB52542BA",
 			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_vortex04_4x4"
+				"/Game/Cursor/M_Cursor"
 			]
 		},
 		{
-			"ShaderMapHash": "B8334057B24E8E9C168F1B8DFADF311CA2BCE617",
+			"ShaderMapHash": "FBB5FA9B1980D6402AFD7E2D91A353895111E50A",
 			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
+				"/Game/Items/M_PickableItem"
 			]
 		},
 		{
-			"ShaderMapHash": "8916AC58278AB9AA5C9445E2160516222CAB3346",
+			"ShaderMapHash": "99D4A3E1BAEE282087369D7AE2D072929D0F2255",
 			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_flare01_primitive",
-				"/Game/FXVarietyPack/Materials/MI_ky_shine01R_nonD",
-				"/Game/FXVarietyPack/Materials/MI_ky_shine01R"
+				"/Game/StarterContent/Particles/Materials/M_Heat_Distortion"
 			]
 		},
 		{
-			"ShaderMapHash": "2CC9F0954D9AF715F938A2DDBE67519012DADB5C",
+			"ShaderMapHash": "5D6A21C5EB9F01F4DBE8D37222056F222AC2A06C",
 			"Assets": [
-				"/Game/StarterContent/Materials/M_Rock_Sandstone"
+				"/Game/StarterContent/Particles/Materials/M_Spark"
 			]
 		},
 		{
-			"ShaderMapHash": "C420E5E3905F107156C5A9860F3F47EDC807BF5E",
+			"ShaderMapHash": "66A93315FFF217BC8FD93F6940C0771BD6F7CDCE",
 			"Assets": [
-				"/Game/StarterContent/Materials/M_Rock_Basalt"
+				"/Game/StarterContent/Materials/M_Rock_Marble_Polished"
+			]
+		},
+		{
+			"ShaderMapHash": "18121DE1F140A1F65F8B040CAF82487A9415A032",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Walnut"
+			]
+		},
+		{
+			"ShaderMapHash": "9BFBD7F3BBF09683FF580A63D75A321D64EB486C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Wood_Pine"
+			]
+		},
+		{
+			"ShaderMapHash": "CBE0928ADEAFFA8426706E4FCEA5082D3582C772",
+			"Assets": [
+				"/Game/UI/UIMaterialLab/Materials/2_Gradients/2_RadialGradient/M_UI_RadialGradient",
+				"/Game/UI/UIMaterialLab/Materials/2_Gradients/2_RadialGradient/MI_UI_RadialGradient_2"
+			]
+		},
+		{
+			"ShaderMapHash": "A322AB01D5FD0CACBF4777319631B5111B872243",
+			"Assets": [
+				"/Game/Enemies/Parent/M_Hurt"
+			]
+		},
+		{
+			"ShaderMapHash": "629DE3C7B7738A7B8AFD747ED16C1A8653AC82C1",
+			"Assets": [
+				"/Game/FX/Effects/Regen/M_RegenFlash"
+			]
+		},
+		{
+			"ShaderMapHash": "5B5B368B81C1BCE53AD053A68BA9068D245DE0B1",
+			"Assets": [
+				"/Game/Art/Materials/Master_materials/MM_Shadow_tricks"
+			]
+		},
+		{
+			"ShaderMapHash": "A3C5F3CB17AE6CF82D61F709860DD9A40BB48D2E",
+			"Assets": [
+				"/Game/Target_System/Materials/M_TargetBase"
+			]
+		},
+		{
+			"ShaderMapHash": "FDBF89BDA0E8C0FDEED9B476A1B5EC2984628384",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_TableRound"
 			]
 		},
 		{
@@ -441,6 +532,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D6BFC3E5D32F66E33651FB73DDD44859EC1A8C01",
+			"Assets": [
+				"/Game/Items/Rings/ArrowRain/Meteor/M_meteor"
+			]
+		},
+		{
 			"ShaderMapHash": "4155CD32FAEDD1FC8244198963AA78ADC90C8A06",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished"
@@ -453,21 +550,33 @@
 			]
 		},
 		{
-			"ShaderMapHash": "66A93315FFF217BC8FD93F6940C0771BD6F7CDCE",
+			"ShaderMapHash": "29B5050937B955D55CFF6B354629C51FB750AFAC",
 			"Assets": [
-				"/Game/StarterContent/Materials/M_Rock_Marble_Polished"
+				"/Game/StarterContent/Materials/M_Metal_Steel"
 			]
 		},
 		{
-			"ShaderMapHash": "18121DE1F140A1F65F8B040CAF82487A9415A032",
+			"ShaderMapHash": "B8334057B24E8E9C168F1B8DFADF311CA2BCE617",
 			"Assets": [
-				"/Game/StarterContent/Materials/M_Wood_Walnut"
+				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
 			]
 		},
 		{
-			"ShaderMapHash": "9BFBD7F3BBF09683FF580A63D75A321D64EB486C",
+			"ShaderMapHash": "2E7006A393834DCA66B2DDABF1B585526BFC2D12",
 			"Assets": [
-				"/Game/StarterContent/Materials/M_Wood_Pine"
+				"/Game/StarterContent/Materials/M_Tech_Checker_Dot"
+			]
+		},
+		{
+			"ShaderMapHash": "ED31FB807CA82E677B54C0C63027A7E971876C71",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Gravel"
+			]
+		},
+		{
+			"ShaderMapHash": "3C2EBEDE1A4533521D4324AD3A4240218E4E5D61",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Grass"
 			]
 		},
 		{
@@ -495,9 +604,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "29B5050937B955D55CFF6B354629C51FB750AFAC",
+			"ShaderMapHash": "2CC9F0954D9AF715F938A2DDBE67519012DADB5C",
 			"Assets": [
-				"/Game/StarterContent/Materials/M_Metal_Steel"
+				"/Game/StarterContent/Materials/M_Rock_Sandstone"
+			]
+		},
+		{
+			"ShaderMapHash": "C420E5E3905F107156C5A9860F3F47EDC807BF5E",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Rock_Basalt"
 			]
 		},
 		{
@@ -543,45 +658,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "ED31FB807CA82E677B54C0C63027A7E971876C71",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Ground_Gravel"
-			]
-		},
-		{
-			"ShaderMapHash": "3C2EBEDE1A4533521D4324AD3A4240218E4E5D61",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Ground_Grass"
-			]
-		},
-		{
-			"ShaderMapHash": "8CC08DC694D63C81BFAC96122A23CB770F869117",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_flare_flash"
-			]
-		},
-		{
-			"ShaderMapHash": "58213A4505B0F4814C1A0C88055789DE94E1B22D",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_base"
-			]
-		},
-		{
 			"ShaderMapHash": "298521D4F01DC2F61A5FA1E75F2E0279ECFC7BC9",
 			"Assets": [
 				"/Game/StarterContent/Props/Materials/M_Frame"
-			]
-		},
-		{
-			"ShaderMapHash": "2BC78EFB403CF305CED1C17036001B4A1B607643",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_subUV03"
-			]
-		},
-		{
-			"ShaderMapHash": "EE79B90B27F1D95E4B6A650C0E387EF5A8B89E4E",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_subUV01"
 			]
 		},
 		{
@@ -597,12 +676,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "EA88D2F85A679412E970BD1BEBD6C4AEFB176BA3",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_flarePillar"
-			]
-		},
-		{
 			"ShaderMapHash": "589D9671BFC74E9DA16888264C528FA30FEC8D8A",
 			"Assets": [
 				"/Game/StarterContent/Props/Materials/M_Door"
@@ -612,12 +685,6 @@
 			"ShaderMapHash": "A0E58668C239FEAB74F7678E7207C0046F8D97D8",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Concrete_Tiles"
-			]
-		},
-		{
-			"ShaderMapHash": "CB5277694A99E881575A4934139EF4EE134617DF",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_thunderForBeam"
 			]
 		},
 		{
@@ -639,27 +706,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C6210E4D0C60F3D59AEA587B58BEE5E071992721",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_circle01_4x4G_nonD"
-			]
-		},
-		{
 			"ShaderMapHash": "AB46F231D62E06F2B11C12AD566C5CCB27C1DF1E",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_CobbleStone_Smooth"
-			]
-		},
-		{
-			"ShaderMapHash": "747DE32EF434A8DC48023B74073E9CC818ED14F6",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_chantDecoA"
-			]
-		},
-		{
-			"ShaderMapHash": "7C8AC2A2FFA7D7218B2206AC8C506713EAF9E4E8",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_subUV_dynRGB"
 			]
 		},
 		{
@@ -669,27 +718,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C64F8CA93C91647C2A8197E773676C1AEDF144DA",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_Fresnel"
-			]
-		},
-		{
-			"ShaderMapHash": "4D73328104889557BD5D33F23085B1656EFD4675",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_base_anime"
-			]
-		},
-		{
 			"ShaderMapHash": "344D0203CE386CD147EE4CF66BF200872F3526F1",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_CobbleStone_Pebble"
 			]
 		},
 		{
-			"ShaderMapHash": "2E7006A393834DCA66B2DDABF1B585526BFC2D12",
+			"ShaderMapHash": "B202FB079C1A331BD4CEFC03013D601A14C793CF",
 			"Assets": [
-				"/Game/StarterContent/Materials/M_Tech_Checker_Dot"
+				"/Game/StarterContent/Particles/Materials/M_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "C91CD9CD83FC276F863201C96A8898D667A17CD2",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Clay_Beveled"
 			]
 		},
 		{
@@ -708,12 +751,6 @@
 			"ShaderMapHash": "D021F040B021EE8ACA233BFD588B0DBA4224DD06",
 			"Assets": [
 				"/Game/StarterContent/Props/Materials/M_Bush"
-			]
-		},
-		{
-			"ShaderMapHash": "B202FB079C1A331BD4CEFC03013D601A14C793CF",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_Burst"
 			]
 		},
 		{
@@ -741,39 +778,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C91CD9CD83FC276F863201C96A8898D667A17CD2",
+			"ShaderMapHash": "3E865A9220DD9771113FB9EE938A8F640399F839",
 			"Assets": [
-				"/Game/StarterContent/Materials/M_Brick_Clay_Beveled"
-			]
-		},
-		{
-			"ShaderMapHash": "6C090B5554B4C60A2F1972FA60710118C9C0C93A",
-			"Assets": [
-				"/Game/FX/Effects/Dash/NS_Dash"
-			]
-		},
-		{
-			"ShaderMapHash": "BB0D30A7288B6EA0497C393C001C855DFFE4812A",
-			"Assets": [
-				"/Game/FX/Effects/NS_Impact"
-			]
-		},
-		{
-			"ShaderMapHash": "2A702DA6E8ACBC95687BAF18EE2F7E034840C4EA",
-			"Assets": [
-				"/Game/FX/Effects/M_InjuryFX"
-			]
-		},
-		{
-			"ShaderMapHash": "67853D5526F4AE375785FC81A5959ED9B5C851AE",
-			"Assets": [
-				"/Game/FXVarietyPack/EpicContent/Materials/M_DemoRoomTiles"
-			]
-		},
-		{
-			"ShaderMapHash": "F07D18DEAB79AE8A690D19D000193A7A45E74196",
-			"Assets": [
-				"/Game/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern"
+				"/Game/Art/Materials/Master_materials/MM_Foliage"
 			]
 		},
 		{
@@ -783,58 +790,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "876B6FA2A73912BD26EBB8EED4C5FC4AFAB1A4C0",
-			"Assets": [
-				"/Game/FXVarietyPack/EpicContent/Materials/M_Glass",
-				"/Game/FXVarietyPack/EpicContent/Materials/MI_Glass"
-			]
-		},
-		{
-			"ShaderMapHash": "83560E37396EFB1167D87912FD98E9E64EDBF331",
-			"Assets": [
-				"/Game/Enemies/ToThrowAway/mutant_M"
-			]
-		},
-		{
-			"ShaderMapHash": "0A47E66F7DCF41E9A94CA96E12FDB7BDB52542BA",
-			"Assets": [
-				"/Game/Cursor/M_Cursor"
-			]
-		},
-		{
-			"ShaderMapHash": "8C8187CB3CB377F2E8E241F78FDCE5CD7114CB9A",
-			"Assets": [
-				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
-			]
-		},
-		{
-			"ShaderMapHash": "A3B778EB9FCD1D6C0A0ACC18314F5575E95B7955",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_ColorGrid_LowSpec"
-			]
-		},
-		{
-			"ShaderMapHash": "813EAE16256E336EC4F81C17FD20AF9F7A6F09BE",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Widgets/ComponentMaterials/M_UI_WIP_Tile"
-			]
-		},
-		{
-			"ShaderMapHash": "337B400D1DC8E214B1C9D968E7EE2B9A14B815F6",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_auraWall02"
-			]
-		},
-		{
-			"ShaderMapHash": "3881E5607DDD56E76BE56C2F68C0F6CF4732F9A7",
-			"Assets": [
-				"/Game/Art/Materials/Master_materials/MM_Foliage"
-			]
-		},
-		{
 			"ShaderMapHash": "74290A7F114FCEB861A7A4A62D4CA6E47BD9FA45",
 			"Assets": [
-				"/Game/Art/Particles/MM_Fire"
+				"/Game/Art/Particles/Fire/MM_Fire"
+			]
+		},
+		{
+			"ShaderMapHash": "B464599ECFC6CA7C7AEF1949176D8992BD3564C2",
+			"Assets": [
+				"/Game/Art/Materials/VFX/RainOfArrows/Master/MM_DissolvePBR"
+			]
+		},
+		{
+			"ShaderMapHash": "D797B7109E010AF308C3282E26FD048C6DB12C66",
+			"Assets": [
+				"/Game/Art/Materials/VFX/RainOfArrows/Master/MM_VFXTransluscent"
 			]
 		},
 		{
@@ -850,30 +820,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8BF75F5BB490C88F6A1DD24742B0CF285CDFAAC9",
-			"Assets": [
-				"/Game/Art/Materials/Master_materials/MM_GodsRay"
-			]
-		},
-		{
-			"ShaderMapHash": "D83DB45BA78BDBAC149BCAAB03C6FD0A53F6BDE0",
-			"Assets": [
-				"/Game/Art/Materials/Master_materials/MM_Prefabs_TwoSided"
-			]
-		},
-		{
-			"ShaderMapHash": "4002E287E5AABC8684FC2DF9ABBF3673FA3E77D7",
-			"Assets": [
-				"/Game/Art/Materials/Master_materials/MM_Prefabs"
-			]
-		},
-		{
-			"ShaderMapHash": "5B5B368B81C1BCE53AD053A68BA9068D245DE0B1",
-			"Assets": [
-				"/Game/Art/Materials/Master_materials/MM_Shadow_tricks"
-			]
-		},
-		{
 			"ShaderMapHash": "9F73F4A25C2497E5FA439DE6633D747C12EDDAD8",
 			"Assets": [
 				"/Game/Art/Materials/Master_materials/MM_Light"
@@ -883,6 +829,36 @@
 			"ShaderMapHash": "48674F62C86011014A12735CC82C9525540634EA",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "8C8187CB3CB377F2E8E241F78FDCE5CD7114CB9A",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "A9F03E983DC170539A623F4B29D8DA6391A01331",
+			"Assets": [
+				"/Game/Items/Rings/ArrowRain/Meteor/NS_meteor_trail"
+			]
+		},
+		{
+			"ShaderMapHash": "D83DB45BA78BDBAC149BCAAB03C6FD0A53F6BDE0",
+			"Assets": [
+				"/Game/Art/Materials/Master_materials/MM_Prefabs_TwoSided"
+			]
+		},
+		{
+			"ShaderMapHash": "A1F971F235A5C3BA795B7832B23898D22E87D45E",
+			"Assets": [
+				"/Game/Art/Materials/Master_materials/MM_Prefabs"
+			]
+		},
+		{
+			"ShaderMapHash": "8BF75F5BB490C88F6A1DD24742B0CF285CDFAAC9",
+			"Assets": [
+				"/Game/Art/Materials/Master_materials/MM_GodsRay"
 			]
 		},
 		{
@@ -896,6 +872,31 @@
 			"Assets": [
 				"/Game/UI/UIMaterialLab/Materials/6_Patterns/2_HexagonalTiling/M_UI_HexagonalTiling",
 				"/Game/UI/UIMaterialLab/Materials/6_Patterns/2_HexagonalTiling/MI_UI_HexagonalTiling_1"
+			]
+		},
+		{
+			"ShaderMapHash": "813EAE16256E336EC4F81C17FD20AF9F7A6F09BE",
+			"Assets": [
+				"/Game/UI/UIMaterialLab/Widgets/ComponentMaterials/M_UI_WIP_Tile"
+			]
+		},
+		{
+			"ShaderMapHash": "330363A52F0C3D1D785A46E6C1F9823ABF8024CF",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_radial_ramp",
+				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient"
+			]
+		},
+		{
+			"ShaderMapHash": "6A813BDE33ED7863A74071DBFB67E617374AF8F4",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "D52A202884E6A6254C88D59AFDB37C6B961EA128",
+			"Assets": [
+				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
 			]
 		},
 		{
@@ -923,16 +924,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "330363A52F0C3D1D785A46E6C1F9823ABF8024CF",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_radial_ramp",
-				"/Game/StarterContent/Particles/Materials/M_Radial_Gradient"
-			]
-		},
-		{
 			"ShaderMapHash": "665F9E86F233519A1697608ED7CA614CADF2289A",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn"
+			]
+		},
+		{
+			"ShaderMapHash": "A3B778EB9FCD1D6C0A0ACC18314F5575E95B7955",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_ColorGrid_LowSpec"
 			]
 		},
 		{
@@ -942,21 +942,33 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D52A202884E6A6254C88D59AFDB37C6B961EA128",
-			"Assets": [
-				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
-			]
-		},
-		{
-			"ShaderMapHash": "6A813BDE33ED7863A74071DBFB67E617374AF8F4",
-			"Assets": [
-				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
-			]
-		},
-		{
 			"ShaderMapHash": "0C593335B426D9FA2CCB8BE3371E9D5B0C06FC8C",
 			"Assets": [
 				"/Engine/EditorMeshes/ColorCalibrator/M_ColorGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "BFBCA568D2D6E67AF9674E66271A4464D1071104",
+			"Assets": [
+				"/Engine/EditorResources/FieldNodes/_Resources/MI_FieldVolumePreview"
+			]
+		},
+		{
+			"ShaderMapHash": "C9BC3145CB4CD8C31C6FEEA88FE054A33F6F12B9",
+			"Assets": [
+				"/Engine/EditorResources/FieldNodes/_Resources/M_FieldRadiusPreview"
+			]
+		},
+		{
+			"ShaderMapHash": "C78CF843AF455E0FE229E895E9FC527B0094011D",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "B6725FACA1A34F71543A99E7A3A2CE2B12F94220",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
 			]
 		},
 		{
@@ -972,27 +984,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3F28350DF4C7CBF6391AFCBBBB57E49A9A77A4A0",
-			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
-			]
-		},
-		{
 			"ShaderMapHash": "53F8BE6B5D1DEE59D4838C11D52EAE81703FEE60",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
 			]
 		},
 		{
-			"ShaderMapHash": "C78CF843AF455E0FE229E895E9FC527B0094011D",
+			"ShaderMapHash": "3F28350DF4C7CBF6391AFCBBBB57E49A9A77A4A0",
 			"Assets": [
-				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
-			]
-		},
-		{
-			"ShaderMapHash": "B6725FACA1A34F71543A99E7A3A2CE2B12F94220",
-			"Assets": [
-				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
 			]
 		},
 		{
@@ -1009,40 +1009,16 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FBB5E328E142D2B917BF8C42C133BFC52BC5165E",
+			"ShaderMapHash": "87E7A8A871BBCBA544746D5825D77DB1F4C2539F",
 			"Assets": [
 				"/Game/UI/UIMaterialLab/Materials/2_Gradients/3_AngleGradient/M_UI_AngleGradient",
 				"/Game/UI/UIMaterialLab/Materials/2_Gradients/3_AngleGradient/MI_UI_AngleGradient_1"
 			]
 		},
 		{
-			"ShaderMapHash": "36F367769D94653442B332F96F4DD4B25AF934E8",
+			"ShaderMapHash": "4412E8392118BE4FCC8BB1C5CF0988E24DB828E3",
 			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_stormDeco01"
-			]
-		},
-		{
-			"ShaderMapHash": "9C074AA40868B1F0B1F819BB622FCB9B484E4C51",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/MI_ky_circleDust"
-			]
-		},
-		{
-			"ShaderMapHash": "9B12CECEB2FF84E13EA301BC0F1566993BD65E53",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/MI_ky_vortex04B_4x4_two"
-			]
-		},
-		{
-			"ShaderMapHash": "A1476F63E52424736E3FF2353D0466F348EF198E",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_laser01"
-			]
-		},
-		{
-			"ShaderMapHash": "F930BC68A169242064FA594138F11DDA3FB99C89",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_dust01_4x4"
+				"/Game/FX/Effects/ArrowRain/NS_Sparkles"
 			]
 		},
 		{
@@ -1066,57 +1042,93 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B7E2AF66014C282FD617BBFA63D15E6B8FB167AE",
+			"ShaderMapHash": "3ADD6844517754F42CE1652D3E889D4B1E7DE1E9",
 			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_aura9"
+				"/Game/Art/Materials/VFX/RainOfArrows/Master/MM_Arrow_SW"
 			]
 		},
 		{
-			"ShaderMapHash": "9D1B6717D7ADDBF90318C956EE290A89B2FF3939",
+			"ShaderMapHash": "21D232B869B36E0567953FCB5EC88879059F8D10",
 			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_shockWave03_4x4"
+				"/Game/Art/Materials/VFX/RainOfArrows/Master/MM_Arrow_SW"
 			]
 		},
 		{
-			"ShaderMapHash": "611E3E4919277A202BD295AEDE129ECC3F85C4F8",
+			"ShaderMapHash": "9F83975235C6044F5BC518EE7EE59BE5FE42736C",
 			"Assets": [
-				"/Game/FXVarietyPack/Materials/MI_ky_flare_flash_trs"
+				"/Game/Art/Materials/VFX/RainOfArrows/Master/MM_Arrow_SW"
 			]
 		},
 		{
-			"ShaderMapHash": "6B53811902DAA85B09436C54BA2DFBD955D1A7DE",
+			"ShaderMapHash": "797359003D149BAF9A73E3B1D728CA2D326408ED",
 			"Assets": [
-				"/Game/FXVarietyPack/Materials/MI_ky_shine01B"
+				"/Game/Art/Materials/VFX/RainOfArrows/Master/MM_Arrow_Ring"
 			]
 		},
 		{
-			"ShaderMapHash": "FE931E08E04CCDD969BC2B960CE3742D3BA354B4",
+			"ShaderMapHash": "D64BB5B325276FD0C7C56454118553DCE7EA544D",
 			"Assets": [
-				"/Game/FXVarietyPack/Materials/MI_ky_circle9_4x4c2"
+				"/Game/Art/Materials/VFX/RainOfArrows/Master/MM_Arrow_Ring"
+			]
+		},
+		{
+			"ShaderMapHash": "652BABAAB5B79E375324AF435DD29690A58791CC",
+			"Assets": [
+				"/Game/Art/Materials/VFX/RainOfArrows/Master/MM_Arrow_Ring"
+			]
+		},
+		{
+			"ShaderMapHash": "3E328F84E6445CB2CE7C27141E83E6A83AAABE1F",
+			"Assets": [
+				"/Game/Art/Materials/VFX/RainOfArrows/Master/MM_Arrow_Ground"
+			]
+		},
+		{
+			"ShaderMapHash": "DEB6CB4DFE4442AEA39519899F4CD6BCE9502EA5",
+			"Assets": [
+				"/Game/Art/Materials/VFX/RainOfArrows/Master/MM_Arrow_Ground"
+			]
+		},
+		{
+			"ShaderMapHash": "FA94DE5926A99E88C05CA873676F8EB0162C3CEF",
+			"Assets": [
+				"/Game/Art/Materials/VFX/RainOfArrows/Master/MM_Arrow_Ground"
+			]
+		},
+		{
+			"ShaderMapHash": "C536F28A9C9B4E1000EB0AC259132148DBAFA63E",
+			"Assets": [
+				"/Game/Art/Materials/VFX/GroundSmash/Material/Master/MM_GroundSmash"
+			]
+		},
+		{
+			"ShaderMapHash": "3342A68A768E4567927C55A987FD63CEE5601B1A",
+			"Assets": [
+				"/Game/Art/Materials/VFX/GroundSmash/Material/Master/MM_GroundSmash"
+			]
+		},
+		{
+			"ShaderMapHash": "18AB0E8787E60AC54464612E5EC99F1C937528BA",
+			"Assets": [
+				"/Game/Art/Materials/VFX/GroundSmash/Material/Master/MM_GroundSmash"
+			]
+		},
+		{
+			"ShaderMapHash": "C89EDBFACB3B1429D794815BA83DD582EE1D5B1B",
+			"Assets": [
+				"/Game/Art/Materials/VFX/RainOfArrows/Master/MM_DissolveVFX"
+			]
+		},
+		{
+			"ShaderMapHash": "6E827DBD71BC7789C977D8E103CBB03441228995",
+			"Assets": [
+				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
 			]
 		},
 		{
 			"ShaderMapHash": "D2BE8700E1C9E9384C856FF160C3311D46C51A2D",
 			"Assets": [
 				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
-			]
-		},
-		{
-			"ShaderMapHash": "E17E4719C1D09F569ACB1BEADABE989DB8DC837C",
-			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
-			]
-		},
-		{
-			"ShaderMapHash": "C4BAF5BF713D6C6151298EF2FC17203F62860912",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_primitive"
-			]
-		},
-		{
-			"ShaderMapHash": "6DF24AF116E6C74CE4D7BBC66A8981E523ABF595",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_polar_primitive"
 			]
 		},
 		{
@@ -1145,94 +1157,33 @@
 			]
 		},
 		{
-			"ShaderMapHash": "CBB2A75E32C1AC2D438971E83339BDCD3110106E",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_storm01"
-			]
-		},
-		{
-			"ShaderMapHash": "B7E05CB570573E0A9E5B2F17B03ED94C178FF28D",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/MI_ky_auraWall02_two"
-			]
-		},
-		{
-			"ShaderMapHash": "544DE622E64FA167C74917ED4B5B3A852B0CDE83",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_waterDust02"
-			]
-		},
-		{
-			"ShaderMapHash": "47C6D5D53C91DBD41B519E0644AB11DDABF8FCCA",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_trail_primitive"
-			]
-		},
-		{
-			"ShaderMapHash": "8D8766E52F46CF252D82072D50F7D2F8E6963EB8",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_smoke01"
-			]
-		},
-		{
-			"ShaderMapHash": "0C2FCABF46EAF90CEBD12DFF762727B0AD6EDF90",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_primitive_dyn2"
-			]
-		},
-		{
-			"ShaderMapHash": "4E570B5441C6B77503958E7BFA2C7563E5ACF107",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_polar",
-				"/Game/FXVarietyPack/Materials/MI_ky_polarG_nonD"
-			]
-		},
-		{
-			"ShaderMapHash": "A1B59DC65FC9FE7878A5982DCB7BA7FE0C3CEF7A",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_magicCircle020"
-			]
-		},
-		{
-			"ShaderMapHash": "6740F13718BEB4E343B62435713F2B224FFDFAE2",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_flareVert"
-			]
-		},
-		{
-			"ShaderMapHash": "D8536E06264E4A6A0D0C90924EA3CFDA0FF30F5A",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_dynDust"
-			]
-		},
-		{
-			"ShaderMapHash": "5DBF7690E2D11A913A92435CC80C5246ED5262ED",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_base_turbulence"
-			]
-		},
-		{
 			"ShaderMapHash": "49B744A6DA49C3C60D1522D7631B2F152B5317A7",
 			"Assets": [
 				"/Game/FX/Effects/Slash/M_Slash"
 			]
 		},
 		{
-			"ShaderMapHash": "6E827DBD71BC7789C977D8E103CBB03441228995",
-			"Assets": [
-				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
-			]
-		},
-		{
-			"ShaderMapHash": "739101FF8213CFC1389308FD7BE45F9DEFC414C6",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_stone02"
-			]
-		},
-		{
 			"ShaderMapHash": "E17082145E14E73576E3952C31BB7F46153FF1AA",
 			"Assets": [
-				"/Game/Fade/MM_Fade"
+				"/Game/Fade/Materials/MM_Fade"
+			]
+		},
+		{
+			"ShaderMapHash": "E17E4719C1D09F569ACB1BEADABE989DB8DC837C",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "F6B5F3928A3AB0459B682963FF1447139AE4B469",
+			"Assets": [
+				"/Game/UI/UIMaterialLab/Materials/1_Transforms/4_Flip/MI_UI_Flip_2"
+			]
+		},
+		{
+			"ShaderMapHash": "9B17B12E5042DDF84DE7C349948795D1ED583CFA",
+			"Assets": [
+				"/Game/Art/Materials/Master_materials/MM_Blending"
 			]
 		},
 		{
@@ -1257,57 +1208,22 @@
 			]
 		},
 		{
-			"ShaderMapHash": "51EEC003B79F69263E6677602AADC64D4C3A3782",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/M_ky_starDust"
-			]
-		},
-		{
 			"ShaderMapHash": "3CDE6831F91C0875CA6D2E28BA8B03A74DFCB69A",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
 			]
 		},
 		{
-			"ShaderMapHash": "F6B5F3928A3AB0459B682963FF1447139AE4B469",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/1_Transforms/4_Flip/MI_UI_Flip_2"
-			]
-		},
-		{
-			"ShaderMapHash": "6C7C22D211AB5238B30CA7A620273BCA9384DBFD",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/3_Time/2_EasingFunctions/MI_UI_EasingFunctions_QuinticInOut"
-			]
-		},
-		{
-			"ShaderMapHash": "034BE47B774E1046D57097E62171D221AF116023",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/3_Time/2_EasingFunctions/MI_UI_EasingFunctions_QuinticIn"
-			]
-		},
-		{
-			"ShaderMapHash": "CC87A5C24B163EAA4A1465B56B78B46193BBCBC8",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/8_Utilities/2_SteppedGradient/MI_UI_SteppedGradient_3"
-			]
-		},
-		{
-			"ShaderMapHash": "262A78842E55F99CEEFCD5AF9DD4F02B34BB4C7A",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/8_Utilities/2_SteppedGradient/MI_UI_SteppedGradient_1"
-			]
-		},
-		{
-			"ShaderMapHash": "DEAEF5E3A41C27C5A4CB3B22562BEB25EC53FACF",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/2_Gradients/3_AngleGradient/MI_UI_AngleGradient_2"
-			]
-		},
-		{
 			"ShaderMapHash": "3DB0DDC953AD4AFD853F5FD57A8869DE1330351B",
 			"Assets": [
 				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "67FCAEABE8E217BE02E4B8BAFF9409E015629FFF",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/M_Mannequin",
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01"
 			]
 		},
 		{
@@ -1329,9 +1245,39 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CC87A5C24B163EAA4A1465B56B78B46193BBCBC8",
+			"Assets": [
+				"/Game/UI/UIMaterialLab/Materials/8_Utilities/2_SteppedGradient/MI_UI_SteppedGradient_3"
+			]
+		},
+		{
+			"ShaderMapHash": "262A78842E55F99CEEFCD5AF9DD4F02B34BB4C7A",
+			"Assets": [
+				"/Game/UI/UIMaterialLab/Materials/8_Utilities/2_SteppedGradient/MI_UI_SteppedGradient_1"
+			]
+		},
+		{
+			"ShaderMapHash": "F9F456AF1097C8E0F57FF4F67B73D17DACDE7CD7",
+			"Assets": [
+				"/Game/UI/UIMaterialLab/Materials/2_Gradients/3_AngleGradient/MI_UI_AngleGradient_2"
+			]
+		},
+		{
 			"ShaderMapHash": "DFB5649C138685EB2C7C86CD536757B0B0A8E526",
 			"Assets": [
 				"/Game/UI/UIMaterialLab/Materials/3_Time/2_EasingFunctions/MI_UI_EasingFunctions_QuinticOut"
+			]
+		},
+		{
+			"ShaderMapHash": "6C7C22D211AB5238B30CA7A620273BCA9384DBFD",
+			"Assets": [
+				"/Game/UI/UIMaterialLab/Materials/3_Time/2_EasingFunctions/MI_UI_EasingFunctions_QuinticInOut"
+			]
+		},
+		{
+			"ShaderMapHash": "034BE47B774E1046D57097E62171D221AF116023",
+			"Assets": [
+				"/Game/UI/UIMaterialLab/Materials/3_Time/2_EasingFunctions/MI_UI_EasingFunctions_QuinticIn"
 			]
 		},
 		{
@@ -1365,34 +1311,34 @@
 			]
 		},
 		{
-			"ShaderMapHash": "67FCAEABE8E217BE02E4B8BAFF9409E015629FFF",
+			"ShaderMapHash": "59D4492DF4498FAB52AB151B5B5BEA3A650756C3",
 			"Assets": [
-				"/Game/Characters/Mannequins/Materials/M_Mannequin",
-				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01"
+				"/Game/Art/Materials/VFX/GroundSmash/Material/MI_GroundSmash_Shadow"
 			]
 		},
 		{
-			"ShaderMapHash": "D3B5D6B42D7643F016399F3C4AD959B324F843B4",
+			"ShaderMapHash": "BD70F8597E7A2F252A1946F5786653886C07E107",
 			"Assets": [
-				"/Game/FXVarietyPack/Materials/MI_ky_aura9"
+				"/Game/Art/Materials/VFX/RainOfArrows/MI_Arrow_ImpactShadow"
 			]
 		},
 		{
-			"ShaderMapHash": "9D33E40EF1CBA21A8D8C98F49DA40F196AFEA64E",
+			"ShaderMapHash": "A78EDD5EEF55188090996F0EE7B3A7C2CBE6ED21",
 			"Assets": [
-				"/Game/FXVarietyPack/Materials/MI_ky_shockWave03g_4x4"
+				"/Game/UI/UIMaterialLab/Materials/7_UVDistortion/2_Skew/MI_UI_Skew_2"
 			]
 		},
 		{
-			"ShaderMapHash": "213AB334CC86161C4CC0F81B0DC48A115F8F709D",
+			"ShaderMapHash": "9C244D03B5C29C5567F2D55B098443219C5247EC",
 			"Assets": [
-				"/Game/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern_NoText"
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
 			]
 		},
 		{
-			"ShaderMapHash": "6448D69E3A507B3294992F7E45D4FE37E90A986F",
+			"ShaderMapHash": "69B1F78C792C04937A7AF57F6685750A106D625D",
 			"Assets": [
-				"/Game/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern_Inst_Mirrored"
+				"/Engine/EditorMaterials/GeometryCollection/SelectedGeometryMaterial"
 			]
 		},
 		{
@@ -1406,24 +1352,6 @@
 			"Assets": [
 				"/Game/UI/UIMaterialLab/Widgets/ComponentMaterials/M_UI_ProgressBar_Segmented",
 				"/Game/UI/UIMaterialLab/Widgets/ComponentMaterials/MaterialInstances/MI_UI_ProgressBar_2"
-			]
-		},
-		{
-			"ShaderMapHash": "28816BECF030B06AAB995FA658E3FAFD312F096A",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/5_Masks/1_Blind/M_UI_BlindMask"
-			]
-		},
-		{
-			"ShaderMapHash": "BDF23E229ADE9522D048818B5AF8D95DBB15409E",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Widgets/ComponentMaterials/M_UI_Liquid_Fill"
-			]
-		},
-		{
-			"ShaderMapHash": "A78EDD5EEF55188090996F0EE7B3A7C2CBE6ED21",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/7_UVDistortion/2_Skew/MI_UI_Skew_2"
 			]
 		},
 		{
@@ -1460,6 +1388,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "28816BECF030B06AAB995FA658E3FAFD312F096A",
+			"Assets": [
+				"/Game/UI/UIMaterialLab/Materials/5_Masks/1_Blind/M_UI_BlindMask"
+			]
+		},
+		{
+			"ShaderMapHash": "BDF23E229ADE9522D048818B5AF8D95DBB15409E",
+			"Assets": [
+				"/Game/UI/UIMaterialLab/Widgets/ComponentMaterials/M_UI_Liquid_Fill"
+			]
+		},
+		{
 			"ShaderMapHash": "644F1CE140702F7D885616DFCA19795657B517F7",
 			"Assets": [
 				"/Game/UI/UIMaterialLab/Materials/8_Utilities/1_Random/M_UI_Random",
@@ -1474,47 +1414,11 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FFDD27858DBBBF59C389BF8946B578F808D01611",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/MI_ky_storm01_thunder_nonD",
-				"/Game/FXVarietyPack/Materials/MI_ky_storm01_fire_nonD1",
-				"/Game/FXVarietyPack/Materials/MI_ky_storm01_dark_nonD"
-			]
-		},
-		{
-			"ShaderMapHash": "D4B7E513CE0B897ECCD6DEABD78947C5533E21BA",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/MI_ky_storm01_thunder",
-				"/Game/FXVarietyPack/Materials/MI_ky_storm01_fire",
-				"/Game/FXVarietyPack/Materials/MI_ky_storm01_dark"
-			]
-		},
-		{
-			"ShaderMapHash": "DE97803202298B034F8D4E07E8A14237BA232A5A",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/MI_ky_storm01_nonD",
-				"/Game/FXVarietyPack/Materials/MI_ky_storm01_aqua_nonD"
-			]
-		},
-		{
-			"ShaderMapHash": "9C244D03B5C29C5567F2D55B098443219C5247EC",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
-				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
-			]
-		},
-		{
 			"ShaderMapHash": "14865A67516E3B98C999FE06ED903F8A0EC029B1",
 			"Assets": [
 				"/Game/UI/UIMaterialLab/Widgets/ComponentMaterials/M_UI_TileBackground",
 				"/Game/UI/UIMaterialLab/Widgets/ComponentMaterials/MaterialInstances/MI_TabBackground",
 				"/Game/UI/UIMaterialLab/Widgets/ComponentMaterials/MaterialInstances/MI_TileShadow"
-			]
-		},
-		{
-			"ShaderMapHash": "7D5F79E179D4CCBA1C2E7003CD4D80CC3278FBAA",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/MI_ky_polar_two"
 			]
 		},
 		{
@@ -1532,7 +1436,7 @@
 			]
 		},
 		{
-			"ShaderMapHash": "7C58B52155727D1F43A8FEBBA607A88171D9827C",
+			"ShaderMapHash": "E0F8D5B49371986BADD8255549C2D6DD88D5D87C",
 			"Assets": [
 				"/Game/UI/UIMaterialLab/Widgets/ComponentMaterials/M_UI_ObjectiveFill"
 			]
@@ -1615,9 +1519,11 @@
 			]
 		},
 		{
-			"ShaderMapHash": "144CA92F79E549BB9F7C619C57F8196EC3F364CD",
+			"ShaderMapHash": "85F3D39FA38BD854497DA3410989F93DA49B2CF7",
 			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/4_Shapes/2_SDF_BooleanOperations/M_UI_SDF_BooleanOperations"
+				"/Game/UI/UIMaterialLab/Materials/4_Shapes/2_SDF_BooleanOperations/M_UI_SDF_BooleanOperations",
+				"/Game/UI/UIMaterialLab/Materials/4_Shapes/2_SDF_BooleanOperations/MI_UI_SDF_Intersection_Exact",
+				"/Game/UI/UIMaterialLab/Materials/4_Shapes/2_SDF_BooleanOperations/MI_UI_SDF_Subtraction_Exact"
 			]
 		},
 		{
@@ -1666,52 +1572,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "520C1DE7962E0E705E18F7B380E5122C4FDDE102",
+			"ShaderMapHash": "E66F5C570A8B2CB4EECDBEA05B61F005946EFDD4",
 			"Assets": [
-				"/Game/FXVarietyPack/Materials/MI_ky_smoke01b"
-			]
-		},
-		{
-			"ShaderMapHash": "1387C0AD60F5E111E3C8197F89978830D024EE80",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/MI_ky_primitive_dynB_two"
-			]
-		},
-		{
-			"ShaderMapHash": "1DD22E1BE2245357F4341B65232C6BCA23D89A7E",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/MI_ky_polarC_two"
+				"/Game/UI/Materials/M_UI_Skill"
 			]
 		},
 		{
 			"ShaderMapHash": "BDE30134A1800CDBDC83502FD98307D9BC784B13",
 			"Assets": [
 				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo"
-			]
-		},
-		{
-			"ShaderMapHash": "A166B42104CDFF638E2E35EF6AD0CC274FA897FB",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/6_Patterns/1_GridTiling/MI_UI_GridTiling_1"
-			]
-		},
-		{
-			"ShaderMapHash": "A31F54E52812C43237303E9BBEACC396194EF620",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/6_Patterns/3_Truchet/M_UI_Truchet_UVs",
-				"/Game/UI/UIMaterialLab/Materials/6_Patterns/3_Truchet/MI_UI_Truchet_UVs_1"
-			]
-		},
-		{
-			"ShaderMapHash": "0A7573409D7AE9DFE52BB4038878E732CE5F70C7",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/5_Masks/6_Rings/MI_UI_Rings_1"
-			]
-		},
-		{
-			"ShaderMapHash": "C66B336D31F1BDA34D030FB07D114B5DF7B9CEA2",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/MI_ky_starDust_dis"
 			]
 		},
 		{
@@ -1745,24 +1614,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2CAA94044B31608C122492988AA2379184E4C502",
-			"Assets": [
-				"/Game/FXVarietyPack/Materials/MI_ky_starDust_sq"
-			]
-		},
-		{
-			"ShaderMapHash": "43B4CFDF2E80DB7AC8D0295CCE2FAD89CAC86208",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/5_Masks/5_Sectors/MI_UI_Sectors_1"
-			]
-		},
-		{
-			"ShaderMapHash": "D282F4BAE209871162D515E334FF1D4C6A7DC896",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/5_Masks/4_RadialSegments/MI_UI_Radial_Segments_2"
-			]
-		},
-		{
 			"ShaderMapHash": "2A7AB5D98BA5179BC0DE7F2ECB2E226F37AF108E",
 			"Assets": [
 				"/Game/UI/UIMaterialLab/Materials/5_Masks/4_RadialSegments/MI_UI_Radial_Segments_1"
@@ -1774,6 +1625,24 @@
 				"/Game/UI/UIMaterialLab/Materials/5_Masks/1_Blind/MI_UI_Sweep_3",
 				"/Game/UI/UIMaterialLab/Materials/5_Masks/1_Blind/MI_UI_Sweep_2",
 				"/Game/UI/UIMaterialLab/Materials/5_Masks/1_Blind/MI_UI_Sweep_1"
+			]
+		},
+		{
+			"ShaderMapHash": "43B4CFDF2E80DB7AC8D0295CCE2FAD89CAC86208",
+			"Assets": [
+				"/Game/UI/UIMaterialLab/Materials/5_Masks/5_Sectors/MI_UI_Sectors_1"
+			]
+		},
+		{
+			"ShaderMapHash": "0A7573409D7AE9DFE52BB4038878E732CE5F70C7",
+			"Assets": [
+				"/Game/UI/UIMaterialLab/Materials/5_Masks/6_Rings/MI_UI_Rings_1"
+			]
+		},
+		{
+			"ShaderMapHash": "D282F4BAE209871162D515E334FF1D4C6A7DC896",
+			"Assets": [
+				"/Game/UI/UIMaterialLab/Materials/5_Masks/4_RadialSegments/MI_UI_Radial_Segments_2"
 			]
 		},
 		{
@@ -1789,15 +1658,16 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B7905F7F6E61DC195FA5C43739E025D800E112C6",
+			"ShaderMapHash": "A166B42104CDFF638E2E35EF6AD0CC274FA897FB",
 			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/5_Masks/3_Checkers/MI_UI_Checkers_2"
+				"/Game/UI/UIMaterialLab/Materials/6_Patterns/1_GridTiling/MI_UI_GridTiling_1"
 			]
 		},
 		{
-			"ShaderMapHash": "CFC3EA1997BA237085374D2FAC13EF484255F28A",
+			"ShaderMapHash": "A31F54E52812C43237303E9BBEACC396194EF620",
 			"Assets": [
-				"/Game/UI/UIMaterialLab/Widgets/ComponentMaterials/MaterialInstances/MI_UI_ProgressBar_1"
+				"/Game/UI/UIMaterialLab/Materials/6_Patterns/3_Truchet/M_UI_Truchet_UVs",
+				"/Game/UI/UIMaterialLab/Materials/6_Patterns/3_Truchet/MI_UI_Truchet_UVs_1"
 			]
 		},
 		{
@@ -1832,6 +1702,31 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CFC3EA1997BA237085374D2FAC13EF484255F28A",
+			"Assets": [
+				"/Game/UI/UIMaterialLab/Widgets/ComponentMaterials/MaterialInstances/MI_UI_ProgressBar_1"
+			]
+		},
+		{
+			"ShaderMapHash": "11921BFBABFEC7821222F0D3C6549B673003B793",
+			"Assets": [
+				"/Game/UI/UIMaterialLab/Materials/4_Shapes/2_SDF_BooleanOperations/MI_UI_SDF_Intersection_Smooth",
+				"/Game/UI/UIMaterialLab/Materials/4_Shapes/2_SDF_BooleanOperations/MI_UI_SDF_Subtraction_Smooth"
+			]
+		},
+		{
+			"ShaderMapHash": "7B763B4AC6C3F0301088DE8A872F912650D5C496",
+			"Assets": [
+				"/Game/UI/UIMaterialLab/Materials/1_Transforms/2_Rotate/MI_UI_Rotate_3"
+			]
+		},
+		{
+			"ShaderMapHash": "51E8F85E51D8E61AE4336101DE09C39B702310DF",
+			"Assets": [
+				"/Game/UI/UIMaterialLab/Materials/4_Shapes/5_SDF_Effects/MI_UI_SDF_Effects_4"
+			]
+		},
+		{
 			"ShaderMapHash": "C3CBE55BE8E4EFEDD2C209EAAA0EBDA0E9930462",
 			"Assets": [
 				"/Game/UI/UIMaterialLab/Materials/7_UVDistortion/3_PolarCoordinates/MI_UI_PolarCoordinates_2"
@@ -1856,34 +1751,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "056A6A7A7AA5AAF09877807543BF2A68ADF2D149",
+			"ShaderMapHash": "B7905F7F6E61DC195FA5C43739E025D800E112C6",
 			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/4_Shapes/4_Wave/MI_UI_Wave_1",
-				"/Game/UI/UIMaterialLab/Materials/4_Shapes/4_Wave/MI_UI_Wave_2"
-			]
-		},
-		{
-			"ShaderMapHash": "8766A7003AB049C0F6CBD26627D028A66B6D45CD",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/3_Time/3_TimeDisplace/MI_UI_TimeDisplace_1"
-			]
-		},
-		{
-			"ShaderMapHash": "D85B147C50259678501E789B3411FA4E1F9BDEA4",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/2_Gradients/4_SquareGradient/MI_UI_SquareGradient_1"
-			]
-		},
-		{
-			"ShaderMapHash": "A0FD7F5E9234BF1F64EBF9CA4AE33490400B8E50",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/4_Shapes/2_SDF_BooleanOperations/MI_UI_SDF_Union_Exact"
-			]
-		},
-		{
-			"ShaderMapHash": "11921BFBABFEC7821222F0D3C6549B673003B793",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/4_Shapes/2_SDF_BooleanOperations/MI_UI_SDF_Subtraction_Smooth"
+				"/Game/UI/UIMaterialLab/Materials/5_Masks/3_Checkers/MI_UI_Checkers_2"
 			]
 		},
 		{
@@ -1899,9 +1769,10 @@
 			]
 		},
 		{
-			"ShaderMapHash": "51E8F85E51D8E61AE4336101DE09C39B702310DF",
+			"ShaderMapHash": "056A6A7A7AA5AAF09877807543BF2A68ADF2D149",
 			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/4_Shapes/5_SDF_Effects/MI_UI_SDF_Effects_4"
+				"/Game/UI/UIMaterialLab/Materials/4_Shapes/4_Wave/MI_UI_Wave_2",
+				"/Game/UI/UIMaterialLab/Materials/4_Shapes/4_Wave/MI_UI_Wave_1"
 			]
 		},
 		{
@@ -1923,21 +1794,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "85F3D39FA38BD854497DA3410989F93DA49B2CF7",
+			"ShaderMapHash": "A0FD7F5E9234BF1F64EBF9CA4AE33490400B8E50",
 			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/4_Shapes/2_SDF_BooleanOperations/MI_UI_SDF_Subtraction_Exact"
-			]
-		},
-		{
-			"ShaderMapHash": "5096CE65B840080F63E2C69881F3AB61F33F1C72",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/4_Shapes/2_SDF_BooleanOperations/MI_UI_SDF_Intersection_Smooth"
-			]
-		},
-		{
-			"ShaderMapHash": "49D9FA63EC82EBE88422AA67C187603C3E5BF3A1",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/4_Shapes/2_SDF_BooleanOperations/MI_UI_SDF_Intersection_Exact"
+				"/Game/UI/UIMaterialLab/Materials/4_Shapes/2_SDF_BooleanOperations/MI_UI_SDF_Union_Exact"
 			]
 		},
 		{
@@ -1977,6 +1836,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8766A7003AB049C0F6CBD26627D028A66B6D45CD",
+			"Assets": [
+				"/Game/UI/UIMaterialLab/Materials/3_Time/3_TimeDisplace/MI_UI_TimeDisplace_1"
+			]
+		},
+		{
+			"ShaderMapHash": "D85B147C50259678501E789B3411FA4E1F9BDEA4",
+			"Assets": [
+				"/Game/UI/UIMaterialLab/Materials/2_Gradients/4_SquareGradient/MI_UI_SquareGradient_1"
+			]
+		},
+		{
 			"ShaderMapHash": "CC61E874FA66F951C48E4286E67AB52A7ECE81B1",
 			"Assets": [
 				"/Game/UI/UIMaterialLab/Materials/1_Transforms/6_Symmetry/MI_UI_Symmetry_2"
@@ -1992,12 +1863,6 @@
 			"ShaderMapHash": "89B322679F387A692A39394671855A85ABDAFA7E",
 			"Assets": [
 				"/Game/UI/UIMaterialLab/Materials/1_Transforms/3_Scale/MI_UI_Scale_2"
-			]
-		},
-		{
-			"ShaderMapHash": "7B763B4AC6C3F0301088DE8A872F912650D5C496",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/1_Transforms/2_Rotate/MI_UI_Rotate_3"
 			]
 		},
 		{
@@ -2019,16 +1884,16 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0A4083FD5398BAA78E2CF5C7B7150D6D631EA9AC",
+			"Assets": [
+				"/Game/UI/UIMaterialLab/Materials/6_Patterns/3_Truchet/MI_UI_Truchet_UVs_2"
+			]
+		},
+		{
 			"ShaderMapHash": "B4DA5476210491D36ADD42C61E8B38C8FF8E6B02",
 			"Assets": [
 				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02",
 				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02"
-			]
-		},
-		{
-			"ShaderMapHash": "0A4083FD5398BAA78E2CF5C7B7150D6D631EA9AC",
-			"Assets": [
-				"/Game/UI/UIMaterialLab/Materials/6_Patterns/3_Truchet/MI_UI_Truchet_UVs_2"
 			]
 		},
 		{
