@@ -25,7 +25,7 @@
 		<EngineModeEx>Vanilla</EngineModeEx>
 		<DeploymentName />
 		<EngineVersion>5.2.0-25360045+++UE5+Release-5.2</EngineVersion>
-		<CommandLine>C:/Users/a_kovacs/Documents/GitHub/Escalon/MyProject/MyProject.uproject</CommandLine>
+		<CommandLine>CommandLineRemoved</CommandLine>
 		<LanguageLCID>0</LanguageLCID>
 		<AppDefaultLocale>fr-FR</AppDefaultLocale>
 		<BuildVersion>++UE5+Release-5.2-CL-25360045</BuildVersion>
