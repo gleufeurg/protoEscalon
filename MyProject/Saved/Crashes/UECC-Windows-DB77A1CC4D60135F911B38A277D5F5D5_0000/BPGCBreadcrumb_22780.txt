@@ -1,0 +1,2 @@
+/Game/UI/Player/WB_Ingame.Default__WB_Ingame_C
+/Game/UI/Player/WB_Ingame.WB_Ingame_C

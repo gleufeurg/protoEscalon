@@ -1,0 +1,2 @@
+/Game/Items/Skills/ArrowRain/BPC_ArrowRain.Default__BPC_ArrowRain_C
+/Game/Items/Skills/Parent/BPC_Skill.BPC_Skill_C
