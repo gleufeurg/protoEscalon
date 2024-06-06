@@ -1,2 +1,0 @@
-/Game/Enemies/RingChest/BP_Chest.Default__BP_Chest_C
-/Game/Enemies/RingChest/BP_Chest.BP_Chest_C

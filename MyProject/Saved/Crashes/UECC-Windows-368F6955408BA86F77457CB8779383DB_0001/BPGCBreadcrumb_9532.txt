@@ -1,2 +1,0 @@
-/Engine/Transient.Default__BP_ThirdPersonCharacter_C
-/Engine/Transient.REINST_BP_ThirdPersonCharacter_C_102

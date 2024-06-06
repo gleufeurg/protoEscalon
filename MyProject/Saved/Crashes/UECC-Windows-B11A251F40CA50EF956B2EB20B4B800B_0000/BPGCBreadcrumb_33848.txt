@@ -1,2 +1,0 @@
-/Game/Maps/Sandbox.Sandbox:PersistentLevel.BP_PickupWeapon_C_UAID_5811228F7DE14BB301_1308378383
-/Game/Items/BP_PickableItem.BP_PickableItem_C

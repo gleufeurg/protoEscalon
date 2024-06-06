@@ -1,2 +1,0 @@
-/Game/Items/Skills/Parentss/BPC_Skill.Default__BPC_Skill_C
-/Game/Items/Skills/Parentss/BPC_Skill.BPC_Skill_C
