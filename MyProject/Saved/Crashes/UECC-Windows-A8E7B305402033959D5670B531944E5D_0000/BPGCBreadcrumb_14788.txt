@@ -1,2 +1,0 @@
-/Game/UI/Tuto/BP_Tuto.Default__BP_Tuto_C
-/Game/UI/Tuto/BP_Tuto.BP_Tuto_C

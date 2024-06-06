@@ -1,2 +1,0 @@
-/Engine/Transient.World_42:WB_Ingame_C_6
-/Game/UI/Player/WB_Ingame.WB_Ingame_C

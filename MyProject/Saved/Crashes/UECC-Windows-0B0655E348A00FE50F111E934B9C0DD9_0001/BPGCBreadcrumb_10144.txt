@@ -1,2 +1,0 @@
-/Engine/Transient.World_10:PersistentLevel.BP_Player_C_0
-/Game/Player/Blueprints/BP_Player.BP_Player_C

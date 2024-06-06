@@ -1,2 +1,0 @@
-/Engine/Transient.BP_Turtle_C_12
-/Engine/Transient.REINST_BP_Enemy_Base_C_1135

@@ -1,2 +1,0 @@
-/Game/Player/Blueprints/BP_Player.Default__BP_Player_C
-/Game/Player/Blueprints/BP_Player.BP_Player_C

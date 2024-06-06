@@ -1,2 +1,0 @@
-/Engine/Transient.World_8:PersistentLevel.BP_PickableItem_C_0
-/Game/Items/BP_PickableItem.BP_PickableItem_C

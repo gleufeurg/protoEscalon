@@ -1,2 +1,0 @@
-/Game/Items/BP_PickableItem.Default__BP_PickableItem_C
-/Game/Items/BP_PickableItem.BP_PickableItem_C

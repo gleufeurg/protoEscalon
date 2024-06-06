@@ -1,2 +1,0 @@
-/Game/Maps/Sandbox.Sandbox:PersistentLevel.REINST_BP_Turtle_C_9
-/Engine/Transient.REINST_BP_Enemy_Base_C_646
