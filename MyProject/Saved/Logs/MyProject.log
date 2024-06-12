@@ -3977,3 +3977,39 @@ UnknownFunction []
 [2024.06.12-16.43.02:813][560]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.66 sec (total: 9.95 sec)
 [2024.06.12-16.43.02:828][560]AssetCheck: New page: Asset Save: Full_Level
 [2024.06.12-16.43.02:828][560]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Full_Level.Full_Level
+[2024.06.12-16.55.16:043][812]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.12-16.55.28:516][849]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Haut-parleurs (G941), InstanceID=1
+[2024.06.12-16.55.28:683][850]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=36040
+[2024.06.12-16.55.29:021][850]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{8e6e1674-2372-47c1-a9c5-60b392f0ac65}, Name=Haut-parleurs (G941)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=231.52
+[2024.06.12-16.55.29:022][850]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.06.12-16.55.29:026][850]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.06.12-16.55.48:977][910]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.12-16.56.33:580][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-16.56.33:860][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Full_Level" FILE="../../../../../../Users/33642/Documents/GitHub/Escalon/MyProject/Content/Maps/Full_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.12-16.56.33:908][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.06.12-16.56.35:108][275]LogSavePackage: Moving output files for package: /Game/Maps/Full_Level
+[2024.06.12-16.56.35:112][275]LogSavePackage: Moving '../../../../../../Users/33642/Documents/GitHub/Escalon/MyProject/Saved/Full_Level4116628540203D042CB65993F4B22E17.tmp' to '../../../../../../Users/33642/Documents/GitHub/Escalon/MyProject/Content/Maps/Full_Level.umap'
+[2024.06.12-16.56.35:193][275]LogFileHelpers: Saving map 'Full_Level' took 1.339
+[2024.06.12-16.56.35:421][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.84 sec (total: 11.7 sec)
+[2024.06.12-16.56.35:437][275]AssetCheck: New page: Asset Save: Full_Level
+[2024.06.12-16.56.35:438][275]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Full_Level.Full_Level
+[2024.06.12-16.56.59:254][618]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.06.12-16.56.59:256][618]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.06.12-16.56.59:257][618]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.06.12-16.56.59:259][618]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.06.12-16.56.59:260][618]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.06.12-16.57.00:754][649]Cmd: DELETE
+[2024.06.12-16.57.00:754][649]Cmd: ACTOR DELETE
+[2024.06.12-16.57.00:841][649]LogEditorActor: Deleted Actor: BP_Turtle_C
+[2024.06.12-16.57.00:898][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2024.06.12-16.57.00:901][649]LogEditorActor: Deleted 1 Actors (0.146 secs)
+[2024.06.12-16.57.00:950][649]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.06.12-16.57.11:120][842]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.12-16.57.11:450][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Full_Level" FILE="../../../../../../Users/33642/Documents/GitHub/Escalon/MyProject/Content/Maps/Full_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.12-16.57.11:505][842]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2024.06.12-16.57.12:882][842]LogSavePackage: Moving output files for package: /Game/Maps/Full_Level
+[2024.06.12-16.57.12:887][842]LogSavePackage: Moving '../../../../../../Users/33642/Documents/GitHub/Escalon/MyProject/Saved/Full_LevelD71649AB451168ACD038739FC36415C8.tmp' to '../../../../../../Users/33642/Documents/GitHub/Escalon/MyProject/Content/Maps/Full_Level.umap'
+[2024.06.12-16.57.12:962][842]LogFileHelpers: Saving map 'Full_Level' took 1.518
+[2024.06.12-16.57.12:985][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.86 sec (total: 13.6 sec)
+[2024.06.12-16.57.13:024][842]AssetCheck: New page: Asset Save: Full_Level
+[2024.06.12-16.57.13:024][842]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Full_Level.Full_Level
